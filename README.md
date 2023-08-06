@@ -1,6 +1,7 @@
 # **주식 자동 거래 시스템 구축**
 
 [Reference_Link](https://wikidocs.net/book/110)
+[Reference_Link2](https://wikidocs.net/book/1173)
 
 08.03.2023
 
