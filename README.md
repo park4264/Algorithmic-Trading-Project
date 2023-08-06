@@ -1,6 +1,6 @@
 # **주식 자동 거래 시스템 구축**
 
-[Reference_Link](https://github.com/wikibook/stock-trading)
+[Reference_Link](https://wikidocs.net/book/110)
 
 08.03.2023
 
